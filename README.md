@@ -25,3 +25,6 @@ This project is a simple employee registration system built using Python's Tkint
    ```bash
    git clone https://github.com/HARishAbinav/EmployeeManagement.git
    cd employee-registration
+2. Run the Application:
+
+      python main.py
